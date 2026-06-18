@@ -1,2 +1,2 @@
 # LendFlow-pro
-financial management ui
+![UI Screenshot](https://github.com/maheesha999/LendFlow-pro/blob/main/lend.png)
